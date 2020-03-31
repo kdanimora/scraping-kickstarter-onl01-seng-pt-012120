@@ -1,6 +1,5 @@
 # require libraries/modules here
 
-def create_project_hash
   require 'nokogiri'
 require 'pry'
 
@@ -30,6 +29,4 @@ def create_project_hash
 
   projects
 
-end
-  # write your code here
 end
